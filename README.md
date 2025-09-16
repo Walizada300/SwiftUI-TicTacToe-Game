@@ -7,8 +7,7 @@ This app is more than just a simple X & O game — it includes animations, sound
 
 ## 📸 Screenshots
 
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/d962987c-2592-4fa8-a1bb-ac45a08c1768" />
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/5cf91536-4e1f-4720-a085-78c54486fac8" />
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/d962987c-2592-4fa8-a1bb-ac45a08c1768" /> <img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/5cf91536-4e1f-4720-a085-78c54486fac8" />
 <img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/eabc9dbc-8676-4ed7-84cd-ffea35e783df" />
 
 ---
